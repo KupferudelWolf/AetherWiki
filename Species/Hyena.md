@@ -1,0 +1,3 @@
+A **hyena** is a medium or small animal. It has a very broad snout, a sloped back, and a thick neck. Though it resembles canines and felines, it is neither. It often has a patterned pelt, and it may have longer hairs along its dorsal side. It has an incredibly strong bite, but it lacks flexibility.
+
+Hyena [bodies](Body.md) are very opportunistic. They tend to keep alone but may temporarily join groups with others. Some vocalize with whooping howls and with laughing sounds, while others are silent. They prefer meat, which they may hunt for or scavenge.

@@ -1,0 +1,1 @@
+The **Void** is the vast nothingness beneath [[Luxtia]] into which the surrounding land fell during [the Shattering](The%20Shattering.md).

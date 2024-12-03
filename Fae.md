@@ -1,0 +1,1 @@
+A **fae** is any [body](Body.md) with a [spark](Spark.md). This results in them having consciousness and self-awareness, or "sentience".

@@ -1,0 +1,9 @@
+{
+  "accentColor": "",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "S - Callouts",
+    "NoPropertiesInReadingMode",
+    "Headless Tables"
+  ]
+}
