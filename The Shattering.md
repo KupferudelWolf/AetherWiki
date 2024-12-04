@@ -1,1 +1,1 @@
-The **Shattering** was a catastrophic event that caused, among other events, the land surrounding [[Luxtia]] to fall into [the Void](<./Locations/The Void.md>). It was caused when the [æther](<./Æther/Æther.md>)'s neutral state of equilibrium dropped to a slightly lower state.
+The **Shattering** was a catastrophic event that caused, among other events, the land surrounding [Luxtia](<./Locations/Luxtia.md>) to fall into [the Void](<./Locations/The Void.md>). It was caused when the [æther](<./Æther/Æther.md>)'s neutral state of equilibrium dropped to a slightly lower state.
