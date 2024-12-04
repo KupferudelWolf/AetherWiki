@@ -4,18 +4,18 @@ tags:
 ---
 > [!infobox|right]
 > # Illuna
-> ![[illuna.png]]
+> ![[../_media/illuna.png]]
 > ###### Body
 > |  |  |
 > | ---: | ---- |
-> | Species | [[Fox]] |
+> | Species | [Fox](<../Species/Fox.md>) |
 > | Height | ??? |
 > | Weight | ??? |
 
-**Illuna** is an adult [fox](Fox.md).
+**Illuna** is an adult [fox](<../Species/Fox.md>).
 
 ## Appearance
-Lunathros is a very brightly white [fae](Fae.md) with dark and light blue markings. She has four paws. Her eyes are a bright cyan and have narrow pupils. She has prominent whiskers of average length, and she has somewhat long upper canines that protrude from her mouth.
+Lunathros is a very brightly white [fae](<../Fae.md>) with dark and light blue markings. She has four paws. Her eyes are a bright cyan and have narrow pupils. She has prominent whiskers of average length, and she has somewhat long upper canines that protrude from her mouth.
 
 She tends to wear leather bags around her neck, body, and rump. Various trinkets dangle from her bags. She wears a thin, light, transparent cowl over her neck and chest.
 

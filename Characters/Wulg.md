@@ -5,15 +5,15 @@ tags:
 ---
 > [!infobox|right]
 > # Wulg
-> ![[wulg.png]]
+> ![[../_media/wulg.png]]
 > ###### Body
 > |  |  |
 > | ---: | ---- |
-> | Species | [[Wolf]] |
+> | Species | [Wolf](<../Species/Wolf.md>) |
 > | Height | ??? |
 > | Weight | ??? |
 
-**Wulg of the Cold** is one of the four [ætherwolves](Wolf.md#Ætherwolf).
+**Wulg of the Cold** is one of the four [ætherwolves](<../Species/Wolf.md#Ætherwolf>).
 
 ## Appearance
 x

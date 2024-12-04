@@ -5,15 +5,15 @@ tags:
 ---
 > [!infobox|right]
 > # Myla
-> ![[myla.png]]
+> ![[../_media/myla.png]]
 > ###### Body
 > |  |  |
 > | ---: | ---- |
-> | Species | [[Wolf]] |
+> | Species | [Wolf](<../Species/Wolf.md>) |
 > | Height | ??? |
 > | Weight | ??? |
 
-**Myla of the Heat** is one of the four [ætherwolves](Wolf.md#Ætherwolf).
+**Myla of the Heat** is one of the four [ætherwolves](<../Species/Wolf.md#Ætherwolf>).
 
 ## Appearance
 x

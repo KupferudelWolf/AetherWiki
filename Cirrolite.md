@@ -1,4 +1,4 @@
-**Cirrolite** is a translucent light-blue crystalline material primarily found in the core of [[Luxtia]]. It is an extremely good conductor for [æther](Æther.md) perturbations and thus [sequencing](Sequencing.md). Consequently, it conducts heat and electricity exceptionally well.
+**Cirrolite** is a translucent light-blue crystalline material primarily found in the core of [[Luxtia]]. It is an extremely good conductor for [æther](<./Æther/Æther.md>) perturbations and thus [sequencing](<./Æther/Sequencing.md>). Consequently, it conducts heat and electricity exceptionally well.
 
 ## Mineralogy
 Cirrolite has a hardness of around 9 on the Mohs scale. It has an isometric structure, forming tetrahedral crystals. It is fairly brittle but otherwise difficult to deform. Cirrolite is often micaceous, forming triangular plates when cleaved. In the core of Luxtia, it is druse, like a giant geode, forming massive crystals. Cirrolite leaves a white streak.

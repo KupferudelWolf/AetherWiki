@@ -36,49 +36,21 @@
             }
           },
           {
-            "id": "00ae88525f0de505",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Shattering.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "The Shattering"
-            }
-          },
-          {
             "id": "a109293ec892082f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Eastern Citadels/Titan.md",
+                "file": "Æther/Aura.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Titan"
-            }
-          },
-          {
-            "id": "0158ad51d48d4ab7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cirrolite.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Cirrolite"
+              "title": "Aura"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -141,17 +113,17 @@
     "type": "split",
     "children": [
       {
-        "id": "dafc56b8676120db",
+        "id": "74c25c45d56e3426",
         "type": "tabs",
         "children": [
           {
-            "id": "e54fa558c0771545",
+            "id": "d6a70f1dd1101511",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Jaki.md",
-                "collapseAll": false,
+                "file": "Fae.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -160,25 +132,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Jaki"
+              "title": "Backlinks for Fae"
             }
           },
           {
-            "id": "ecd2ca6927342b1d",
+            "id": "87cd37d7fe6a29f0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Jaki.md",
+                "file": "Æther/Aura.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Jaki"
+              "title": "Outgoing links from Aura"
             }
           },
           {
-            "id": "668d72c1ecce7069",
+            "id": "63d009c3f1c3345c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -191,15 +163,15 @@
             }
           },
           {
-            "id": "d272411fc5c098ee",
+            "id": "78f33a381b3d7f2a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Jaki.md"
+                "file": "Æther/Aura.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Jaki"
+              "title": "Outline of Aura"
             }
           }
         ]
@@ -218,28 +190,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0158ad51d48d4ab7",
+  "active": "a109293ec892082f",
   "lastOpenFiles": [
-    "Characters/Wulg.md",
-    "Characters/Myla.md",
-    "Characters/Jaki.md",
+    "Æther/Æther.md",
     "Characters/Avia.md",
-    "Species/Wolf.md",
-    "Characters/Minty.md",
-    "Characters/Illuna.md",
-    "Characters/Keira.md",
-    "Characters/Lysco.md",
-    "Characters/Naomi.md",
-    "Ætherwolf.md",
+    "Characters/Wulg.md",
     "Locations/Eastern Citadels/Dione.md",
     "Locations/Eastern Citadels/Titan.md",
-    "The Shattering.md",
-    "Metamutagen.md",
     "Locations/The Void.md",
-    "README.md",
-    "_templates",
-    "Fae.md",
+    "Species/Enfield.md",
+    "Species/Fox.md",
     "Species/Hyena.md",
+    "Species/Wolf.md",
+    "Cirrolite.md",
+    "Fae.md",
+    "Metamutagen.md",
+    "README.md",
+    "The Shattering.md",
+    "Æther/Aura.md",
+    "Æther/Body.md",
+    "Æther/Focusing.md",
+    "Æther/Resolving.md",
+    "Æther/Sequencing.md",
+    "Æther/Spark.md",
+    "Characters/Naomi.md",
+    "Characters/Myla.md",
+    "Characters/Minty.md",
+    "Characters/Lysco.md",
+    "Characters/Keira.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "TEMP",
+    "_templates",
     "_media/jaki.png",
     "_media/avia.png",
     "_media/myla.png",
@@ -249,17 +231,10 @@
     "_media/alyu.png",
     "_media/naomi.png",
     "_media",
-    "Species/Fox.md",
-    "Species/Enfield.md",
-    "Cirrolite.md",
     "Species",
-    "Æther/Aura.md",
-    "Æther/Body.md",
     "Locations",
     "Citadels/East",
-    "Æther/Spark.md",
     "Locations/Eastern Citadels",
-    "x__Entrogenesis.md",
     "Æther",
     "Characters"
   ]

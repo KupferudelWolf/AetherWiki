@@ -4,15 +4,15 @@ tags:
 ---
 > [!infobox|right]
 > # Lysco
-> ![[lysco.png]]
+> ![[../_media/lysco.png]]
 > ###### Body
 > |  |  |
 > | ---: | ---- |
-> | Species | [[Wolf]] |
+> | Species | [Wolf](<../Species/Wolf.md>) |
 > | Height | ??? |
 > | Weight | ??? |
 
-**Lysco** is a [wolf](Wolf.md) who tours the region performing.
+**Lysco** is a [wolf](<../Species/Wolf.md>) who tours the region performing.
 
 ## Appearance
 Lysco is a reddish and tan wolf. Her fur turns white in contact with water. Her eyes are amber.

@@ -1,3 +1,3 @@
-An **enfield** is a small or medium canine animal with avian features. Its front legs resemble those of a bird-of-prey, with talons instead of paws. It may otherwise resemble a [fox](Fox.md) or [wolf](Wolf.md), but with feathers, often branching from its front legs like wings. Enfields are very flexible.
+An **enfield** is a small or medium canine animal with avian features. Its front legs resemble those of a bird-of-prey, with talons instead of paws. It may otherwise resemble a [fox](<./Fox.md>) or [wolf](<./Wolf.md>), but with feathers, often branching from its front legs like wings. Enfields are very flexible.
 
-Enfield [bodies](Body.md) are tenacious, solitary, and territorial. They either hide from others or attack to scare them off. If somebody manages to bond with an enfield, though, then it will stay loyal to them.
+Enfield [bodies](<../Æther/Body.md>) are tenacious, solitary, and territorial. They either hide from others or attack to scare them off. If somebody manages to bond with an enfield, though, then it will stay loyal to them.

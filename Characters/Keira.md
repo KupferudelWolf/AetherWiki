@@ -4,18 +4,18 @@ tags:
 ---
 > [!infobox|right]
 > # Keira
-> ![[keira.png]]
+> ![[../_media/keira.png]]
 > ###### Body
 > |  |  |
 > | ---: | ---- |
-> | Species | [[Enfield]] |
+> | Species | [Enfield](<../Species/Enfield.md>) |
 > | Height | ??? |
 > | Weight | ??? |
 
-**Keira** is an adult [enfield](Enfield.md). She has a keen interest in archaeology. 
+**Keira** is an adult [enfield](<../Species/Enfield.md>). She has a keen interest in archaeology. 
 
 ## Appearance
-Keira is a medium-sized [fae](Fae.md) with an intricate brown, grey, and orange pelt. She has talons in the front and paws in the back. Her feathers are a very dark but iridescent bluish-black. She is fairly fit. Her talons are somewhat thick. She has large feathers attached to her mostly furry front legs, long feathers on her rump, and small feathers down the top of her tail. Her eyes are yellow and have narrow pupils. She has prominent whiskers.
+Keira is a medium-sized [fae](<../Fae.md>) with an intricate brown, grey, and orange pelt. She has talons in the front and paws in the back. Her feathers are a very dark but iridescent bluish-black. She is fairly fit. Her talons are somewhat thick. She has large feathers attached to her mostly furry front legs, long feathers on her rump, and small feathers down the top of her tail. Her eyes are yellow and have narrow pupils. She has prominent whiskers.
 
 She doesn't wear much beyond the occasional necklace or bag.
 

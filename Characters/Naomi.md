@@ -4,25 +4,25 @@ tags:
 ---
 > [!infobox|right]
 > # Naomi
-> ![[naomi.png]]
+> ![[../_media/naomi.png]]
 > ###### Body
 > |  |  |
 > | ---: | ---- |
-> | Species | [[Fox]] |
+> | Species | [Fox](<../Species/Fox.md>) |
 > | Height | ??? |
 > | Weight | ??? |
 > ###### Relations
 > |  |  |
 > | ---: | ---- |
-> | Spouse | [[Avia]] |
+> | Spouse | [Avia](<./Avia.md>) |
 
-**Naomi** is an adult [fox](Fox.md). She is happily married to [[Avia]].
+**Naomi** is an adult [fox](<../Species/Fox.md>). She is happily married to [Avia](<./Avia.md>).
 
 ## Appearance
 Naomi is a small brown and tan fox with grey cheeks. Her tail's tan tip reaches and drags on the ground. She has especially prominent and long whiskers. Her eyes are a dark red and have narrow pupils.
 
 ## Personality
-Naomi is a clever, shy, and intelligent [fae](Fae.md). She is quiet; when she speaks, she is clear and concise. She hides nervousness and anxiety well around strangers. She is an adept liar, but not a habitual one; she usually only lies to protect herself and others, especially from persecution.
+Naomi is a clever, shy, and intelligent [fae](<../Fae.md>). She is quiet; when she speaks, she is clear and concise. She hides nervousness and anxiety well around strangers. She is an adept liar, but not a habitual one; she usually only lies to protect herself and others, especially from persecution.
 
 Like her wife, she can be quite jealous of others. Yet, she dislikes having attention.
 

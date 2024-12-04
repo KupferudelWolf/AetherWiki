@@ -1,3 +1,3 @@
-**Focusing** is the act of making a [spark](Spark.md) inhabit a part of the [aura](Aura.md). Specifically, focusing manipulates the probability of a spark's position within its aura to make it more likely to be on a particular area. This usually occurs when a [fae](Fae.md) consciously focuses on an object within their aura.
+**Focusing** is the act of making a [spark](<./Spark.md>) inhabit a part of the [aura](<./Aura.md>). Specifically, focusing manipulates the probability of a spark's position within its aura to make it more likely to be on a particular area. This usually occurs when a [fae](<../Fae.md>) consciously focuses on an object within their aura.
 
-A spark can better manipulate the [æther](Æther.md) within a focused area. Thus, focusing makes [sequencing](Sequencing.md) easier and stronger.
+A spark can better manipulate the [æther](<./Æther.md>) within a focused area. Thus, focusing makes [sequencing](<./Sequencing.md>) easier and stronger.
