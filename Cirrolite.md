@@ -16,7 +16,7 @@ As the name suggests, isometric cirrolite has an isometric structure, forming te
 Prismatic cirrolite is monoclinic. It is chiefly found in the core of [[Luxtia]] as large druse crystals in the shape of an elongated tetrahedron. Smaller growths outside of the core are often acicular, usually growing on quartz.
 
 ## Æthereal Properties
-Cirrolite has strong directionality in the æther and is capable of "storing" [æthereal energy](<./Æther/Energy.md>) by holding a point at an elevated level. This is similar to [bone](<./Æther/Æther.md#Bones and Fur>) but far more effective.
+Cirrolite has strong directionality in the æther and is capable of "storing" [æthereal energy](<./Æther/Energy.md>) by holding a point at an elevated level. This is similar to [bone](<./Æther/Æther.md#Conductance>) but far more effective.
 
 When æther ripples directly perpendicular to one of the four faces of an isometric cirrolite crystal, the energy of these perturbations is stored in the crystal, holding a point of higher energy in the æther. Whenever another face receives æthereal energy, the crystal becomes a conductor, conducting the energy from each face to their opposite points. Stored energy is released first and evenly between the points, after which the output energy is equal to the average of the input energy.
 

@@ -4,53 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "1e09c6a92433c904",
+        "id": "be3c1cfa00187eb6",
         "type": "tabs",
         "children": [
           {
-            "id": "4c3c45a3fd0eef97",
+            "id": "e1080f3316f2d099",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metamutagen.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Metamutagen"
-            }
-          },
-          {
-            "id": "49d7212b608ed22b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metamutagen.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Metamutagen"
-            }
-          },
-          {
-            "id": "a109293ec892082f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Avia.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Avia"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fae.md",
+                "file": "Metamutagen.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Fae"
+              "title": "Backlinks for Metamutagen"
             }
           },
           {
@@ -141,12 +108,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Avia.md",
+                "file": "Metamutagen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Avia"
+              "title": "Outgoing links from Metamutagen"
             }
           },
           {
@@ -168,10 +135,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Avia.md"
+                "file": "Metamutagen.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Avia"
+              "title": "Outline of Metamutagen"
             }
           }
         ]
@@ -190,8 +157,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a109293ec892082f",
+  "active": "e1080f3316f2d099",
   "lastOpenFiles": [
+    "Metamutagen.md",
+    "Locations/Eastern Citadels/Titan.md",
+    "Æther/Spark.md",
+    "Æther/Aura.md",
+    "Æther/Body.md",
+    "Æther/Energy.md",
+    "Æther/Focusing.md",
+    "Æther/Resolving.md",
+    "The Shattering.md",
+    "Æther/Æther.md",
+    "Cirrolite.md",
+    "Species/Wolf.md",
+    "Fae.md",
+    "Species/Enfield.md",
+    "Species/Hyena.md",
+    "Species/Fox.md",
+    "Locations/Eastern Citadels/Dione.md",
+    "Characters/Avia.md",
     "Characters/Illuna.md",
     "Characters/Jaki.md",
     "Characters/Keira.md",
@@ -200,25 +185,7 @@
     "Characters/Myla.md",
     "Characters/Naomi.md",
     "Characters/Wulg.md",
-    "Characters/Avia.md",
     "_media/illuna.png",
-    "Æther/Aura.md",
-    "Æther/Æther.md",
-    "Locations/Eastern Citadels/Dione.md",
-    "Locations/Eastern Citadels/Titan.md",
-    "Locations/The Void.md",
-    "Species/Enfield.md",
-    "Species/Fox.md",
-    "Species/Hyena.md",
-    "Species/Wolf.md",
-    "Cirrolite.md",
-    "Fae.md",
-    "Metamutagen.md",
-    "README.md",
-    "The Shattering.md",
-    "Æther/Body.md",
-    "Æther/Focusing.md",
-    "Æther/Resolving.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "TEMP",
