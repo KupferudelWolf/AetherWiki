@@ -15,5 +15,8 @@ tags:
 
 **Myla of the Heat** is one of the four [ætherwolves](<../Species/Wolf.md#Ætherwolf>).
 
-## Appearance
+## Body
+Myla's [body](<../Æther/Body.md>) is a white [wolf](<../Species/Wolf.md>) with round cyan markings on her pelt. Her eyes are also cyan, as are the illusionary "wings" on her back.
+
+## Spark
 x

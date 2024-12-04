@@ -14,7 +14,9 @@ tags:
 
 **Lysco** is a [wolf](<../Species/Wolf.md>) who tours the region performing.
 
-## Appearance
+## Body
 Lysco is a reddish and tan wolf. Her fur turns white in contact with water. Her eyes are amber.
 
 She occasionally paints her fur in traditional styles, usually with red paint. Her signature look involves red horizonal marks streaking outward from her eyes.
+
+## Spark

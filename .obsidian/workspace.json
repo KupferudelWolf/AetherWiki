@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Æther/Aura.md",
+                "file": "Characters/Avia.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Aura"
+              "title": "Avia"
             }
           }
         ],
@@ -141,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Æther/Aura.md",
+                "file": "Characters/Avia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Aura"
+              "title": "Outgoing links from Avia"
             }
           },
           {
@@ -168,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Æther/Aura.md"
+                "file": "Characters/Avia.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Aura"
+              "title": "Outline of Avia"
             }
           }
         ]
@@ -192,9 +192,18 @@
   },
   "active": "a109293ec892082f",
   "lastOpenFiles": [
-    "Æther/Æther.md",
-    "Characters/Avia.md",
+    "Characters/Illuna.md",
+    "Characters/Jaki.md",
+    "Characters/Keira.md",
+    "Characters/Lysco.md",
+    "Characters/Minty.md",
+    "Characters/Myla.md",
+    "Characters/Naomi.md",
     "Characters/Wulg.md",
+    "Characters/Avia.md",
+    "_media/illuna.png",
+    "Æther/Aura.md",
+    "Æther/Æther.md",
     "Locations/Eastern Citadels/Dione.md",
     "Locations/Eastern Citadels/Titan.md",
     "Locations/The Void.md",
@@ -207,17 +216,9 @@
     "Metamutagen.md",
     "README.md",
     "The Shattering.md",
-    "Æther/Aura.md",
     "Æther/Body.md",
     "Æther/Focusing.md",
     "Æther/Resolving.md",
-    "Æther/Sequencing.md",
-    "Æther/Spark.md",
-    "Characters/Naomi.md",
-    "Characters/Myla.md",
-    "Characters/Minty.md",
-    "Characters/Lysco.md",
-    "Characters/Keira.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "TEMP",
