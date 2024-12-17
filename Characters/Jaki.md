@@ -10,8 +10,12 @@ tags:
 > |  |  |
 > | ---: | ---- |
 > | Species | [Wolf](<../Species/Wolf.md>) |
-> | Height | ??? |
-> | Weight | ??? |
+> | Height | 155 cm |
+> | Weight | 620 kg |
+> ###### Spark
+> |  |  |
+> | ---: | ---- |
+> | Pronouns | she/her |
 
 **Jaki of the Ground** is one of the four [ætherwolves](<../Species/Wolf.md#Ætherwolf>).
 

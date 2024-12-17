@@ -9,8 +9,12 @@ tags:
 > |  |  |
 > | ---: | ---- |
 > | Species | [Fox](<../Species/Fox.md>) |
-> | Height | ??? |
-> | Weight | ??? |
+> | Height | 925 cm |
+> | Weight | 128,976 kg |
+> ###### Spark
+> |  |  |
+> | ---: | ---- |
+> | Pronouns | she/her |
 
 **Minty** is a giant who lives alone.
 

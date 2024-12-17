@@ -10,8 +10,12 @@ tags:
 > |  |  |
 > | ---: | ---- |
 > | Species | [Wolf](<../Species/Wolf.md>) |
-> | Height | ??? |
-> | Weight | ??? |
+> | Height | 52 cm |
+> | Weight | 25 kg |
+> ###### Spark
+> |  |  |
+> | ---: | ---- |
+> | Pronouns | she/her |
 > ###### Relations
 > |  |  |
 > | ---: | ---- |

@@ -10,8 +10,12 @@ tags:
 > |  |  |
 > | ---: | ---- |
 > | Species | [Wolf](<../Species/Wolf.md>) |
-> | Height | ??? |
-> | Weight | ??? |
+> | Height | 73 cm |
+> | Weight | 52 kg |
+> ###### Spark
+> |  |  |
+> | ---: | ---- |
+> | Pronouns | she/her |
 
 **Wulg of the Cold** is one of the four [ætherwolves](<../Species/Wolf.md#Ætherwolf>).
 

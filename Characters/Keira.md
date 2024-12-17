@@ -11,6 +11,10 @@ tags:
 > | Species | [Enfield](<../Species/Enfield.md>) |
 > | Height | ??? |
 > | Weight | ??? |
+> ###### Spark
+> |  |  |
+> | ---: | ---- |
+> | Pronouns | she/her |
 
 **Keira** is an adult [enfield](<../Species/Enfield.md>). She has a keen interest in archaeology. 
 

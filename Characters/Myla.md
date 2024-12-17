@@ -10,8 +10,12 @@ tags:
 > |  |  |
 > | ---: | ---- |
 > | Species | [Wolf](<../Species/Wolf.md>) |
-> | Height | ??? |
-> | Weight | ??? |
+> | Height | 70 cm |
+> | Weight | 38 kg |
+> ###### Spark
+> |  |  |
+> | ---: | ---- |
+> | Pronouns | she/her |
 
 **Myla of the Heat** is one of the four [ætherwolves](<../Species/Wolf.md#Ætherwolf>).
 

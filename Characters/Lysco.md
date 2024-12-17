@@ -11,6 +11,10 @@ tags:
 > | Species | [Wolf](<../Species/Wolf.md>) |
 > | Height | ??? |
 > | Weight | ??? |
+> ###### Spark
+> |  |  |
+> | ---: | ---- |
+> | Pronouns | she/her |
 
 **Lysco** is a [wolf](<../Species/Wolf.md>) who tours the region performing.
 

@@ -11,6 +11,10 @@ tags:
 > | Species | [Fox](<../Species/Fox.md>) |
 > | Height | ??? |
 > | Weight | ??? |
+> ###### Spark
+> |  |  |
+> | ---: | ---- |
+> | Pronouns | she/her |
 
 **Illuna** is an adult [fox](<../Species/Fox.md>).
 

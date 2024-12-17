@@ -9,8 +9,12 @@ tags:
 > |  |  |
 > | ---: | ---- |
 > | Species | [Fox](<../Species/Fox.md>) |
-> | Height | ??? |
-> | Weight | ??? |
+> | Height | 49 cm |
+> | Weight | 12 kg |
+> ###### Spark
+> |  |  |
+> | ---: | ---- |
+> | Pronouns | she/her |
 > ###### Relations
 > |  |  |
 > | ---: | ---- |
