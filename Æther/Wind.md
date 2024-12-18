@@ -1,0 +1,1 @@
+**Æthereal wind** is the random noise of lower energy present in all of the [æther](<./Æther.md>). It influences the direction that [energy](<./Energy.md>) dissipates (as it will naturally dissipate into regions with the greatest difference in energy) and thus its "direction".

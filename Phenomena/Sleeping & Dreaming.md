@@ -1,0 +1,3 @@
+A [fae's](<../Fae.md>) [body](<../Æther/Body.md>) requires sleep daily, although their [spark](<../Æther/Spark.md>) does not require sleep at all. Regardless, fae usually sleep with their spark diffused into their body.
+
+While sleeping, the fae's body sorts through its memories as well as the accompanied spark's, resulting in dreaming. This process is very similar to [resolving](<../Æther/Resolving.md>), as the fae, upon waking up, gains some memory of their dreams. Like when resolving, their subconscious spark automatically tries to create a narrative of the memories.
