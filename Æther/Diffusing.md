@@ -1,0 +1,3 @@
+A [spark](<./Spark.md>) is **diffused** when its [aura](<./Aura.md>) surrounds a [body](<./Body.md>), resulting in a [fae](<../Fae.md>). Diffusing is the opposite of [resolving](<./Resolving.md>).
+
+If two fae's sparks were to diffuse into each other's bodies, the resulting fae would be unique to the two original fae. Ones [consciousness](<../Phenomena/Consciousness.md>) depends on a specific spark being diffused within a specific body; any other combination results in a different consciousness.
