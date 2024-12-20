@@ -6,7 +6,7 @@
 > [!timeline|t-r t-3] **Metamutagen Disaster** *y20*
 > [Titan](<../Locations/Eastern Citadels/Titan.md>) falls.
 > 
-> *Page:* [Metamutagen#Disaster](<../Materials/Metamutagen.md#Disaster>).
+> *Page:* [Metamutagen#Disaster](<../Technology/Metamutagen.md#Disaster>).
 
 > [!timeline|t-r t-3] **Today** *y40*
 > x
