@@ -1,0 +1,3 @@
+A **cheetah** is a large feline animal. It has long legs, a lithe build, a small head, and typically spotted fur. It is incredibly quick, capable of running faster than any other animal.
+
+Cheetah [bodies](<../Æther/Body.md>) are careful and fairly territorial. Unlike many other predators in [Luxtia](<../Locations/Luxtia.md>), cheetahs are more active in the day. They often meow, purr, growl, and chitter. They may be nomadic until they find the ideal place to settle down, and they may settle down on their own or in groups. Like other felines, they hunt by stalking as close as they can before giving chase.
