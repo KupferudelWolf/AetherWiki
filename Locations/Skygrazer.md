@@ -1,0 +1,1 @@
+**Skygrazer** is the northernmost and tallest mountain of [the Serra](<./Serra.md>). It stands XXX km above the plane of [Luxtia](<./Luxtia.md>). The [Cirrolite Core](<./Cirrolite Core.md>) is located beneath it.

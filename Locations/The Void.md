@@ -1,1 +1,0 @@
-The **Void** is the vast nothingness beneath [Luxtia](<./Luxtia.md>) into which the surrounding land fell during [The Shattering](<../Events/The Shattering.md>).
