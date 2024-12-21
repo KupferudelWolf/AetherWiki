@@ -8,9 +8,4 @@ When a [body](<../Æther/Body.md>) comes in contact with metamutagen, it experie
 [Fae](<../Fae.md>) whose sparks survive metamutagen almost always have a much weaker spark.
 
 ## Creation
-Metamutagen was originally created within [Titan](<../Locations/Eastern Citadels/Titan.md>) by scientists attempting to create a liquid conductor for æther perturbations.
-
-## Disaster
-???
-
-(water supply, plants, maybe even pollen?)
+Metamutagen was originally created at [Titan](<../Locations/Eastern Citadels/Titan.md>) by scientists attempting to create a liquid conductor for [æther perturbations](<../Æther/Energy.md>).
