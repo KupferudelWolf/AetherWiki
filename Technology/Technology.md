@@ -4,7 +4,7 @@ This article covers relatively familiar and mundane technology used by the [fae]
 In Luxtia, personal computers are rather large and slow, resembling Earthly computers of the late 1990s.
 
 ### Personal Computers
-Most fae living in the urban regions of the [citadels](<../Locations/Citadel.md>) have a personal computer per household.
+Most fae living in the urban regions of the [citadels](<../Locations/Citadel.md>) have one personal computer per household.
 
 PCs are very modular and generally built for many purposes. They often use a trackball (rather than a mouse) but otherwise include the machine itself, a cathode-ray tube monitor for display, and a keyboard. Other peripherals include alternative control devices, scanners, printers, and speakers.
 
