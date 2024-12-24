@@ -1,6 +1,6 @@
 **Memory** is stored between the [body](<../Æther/Body.md>) and the [spark](<../Æther/Spark.md>).
 
-In a [fae](<../Fae.md>), explicit ("short-term") memory mostly exists in the consciousness created when a spark is diffused into a body. This includes both semantic memory (accumulated knowledge) and episodic memory (personal experiences). When [diffused](<../Æther/Diffusing.md>) together, the body and spark can exchange memories rapidly, especially while the fae is [asleep](<./Sleeping & Dreaming.md>).
+In a [fae](<../Æther/Fae.md>), explicit ("short-term") memory mostly exists in the consciousness created when a spark is diffused into a body. This includes both semantic memory (accumulated knowledge) and episodic memory (personal experiences). When [diffused](<../Æther/Diffusing.md>) together, the body and spark can exchange memories rapidly, especially while the fae is [asleep](<./Sleeping & Dreaming.md>).
 
 A spark creates and retains episodic memory better than a body, but both are capable of creating and retaining semantic memory.
 

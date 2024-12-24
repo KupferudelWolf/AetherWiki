@@ -1,4 +1,4 @@
-This article covers relatively familiar and mundane technology used by the [fae](<../Fae.md>) of [Luxtia](<../Locations/Luxtia.md>). In general, technology in Luxtia resembles Earthly technology from the late 1980s to the early 2000s.
+This article covers relatively familiar and mundane technology used by the [fae](<../Æther/Fae.md>) of [Luxtia](<../Locations/Luxtia.md>). In general, technology in Luxtia resembles Earthly technology from the late 1980s to the early 2000s.
 
 ## Computers
 In Luxtia, personal computers are rather large and slow, resembling Earthly computers of the late 1990s.

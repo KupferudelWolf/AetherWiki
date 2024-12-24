@@ -1,1 +1,0 @@
-A **fae** is any [body](<./Æther/Body.md>) with a [spark](<./Æther/Spark.md>). This results in them having consciousness and self-awareness, or "sentience".

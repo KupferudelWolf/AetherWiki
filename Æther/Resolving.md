@@ -4,7 +4,7 @@ A spark must be resolved to part with the [body](<./Body.md>). When a fae's spar
 
 A resolved spark appears as a bright point of white light. Sparks of higher power may hurt to look at. Its aura is limited in how large and small it can be while resolved; the average limits are a between 3 cm and 20 cm, with the minimum decreasing and the maximum increasing with the spark’s [power](<./Spark.md#Power>).
 
-A [fae](<../Fae.md>) requires [focus](<./Focusing.md>) to resolve or diffuse a spark, but they do not need to keep focus to keep a spark in either state. A fae can be forced to resolve their spark through sequencing; this is called **collapsing**. [When a fae’s body dies, their spark collapses](<../Phenomena/Death.md>).
+A [fae](<./Fae.md>) requires [focus](<./Focusing.md>) to resolve or diffuse a spark, but they do not need to keep focus to keep a spark in either state. A fae can be forced to resolve their spark through sequencing; this is called **collapsing**. When a fae’s body [dies](<../Phenomena/Death.md>), their spark collapses.
 
 A resolved spark is detached from the body. It can move itself, and it can be moved completely independently of a body. Fluctuations in the æther can move it too, much like wind.
 

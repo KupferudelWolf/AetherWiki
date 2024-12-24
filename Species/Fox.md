@@ -1,3 +1,0 @@
-A **fox** is a small canine animal. It has a narrow and pointed snout, sharp ears, and a considerably bushy tail. Its pelt is often colorful yet may be all black or white. It is more flexible and adaptable than other canines and may even have retractable claws.
-
-Fox [bodies](<../Æther/Body.md>) tend to be solitary. They are quick and agile enough to throw off anyone trying to follow them. They have complex vocalizations, including howls, whines, barks, screams, and more. They will eat anything they can, though some will prefer specific foods over others. They are known to bury food for later.

@@ -1,3 +1,3 @@
-A [fae's](<../Fae.md>) [body](<../Æther/Body.md>) requires sleep daily, although their [spark](<../Æther/Spark.md>) does not require sleep at all. Regardless, fae usually sleep with their spark [diffused](<../Æther/Diffusing.md>) into their body.
+A [fae's](<../Æther/Fae.md>) [body](<../Æther/Body.md>) requires sleep daily, although their [spark](<../Æther/Spark.md>) does not require sleep at all. Regardless, fae usually sleep with their spark [diffused](<../Æther/Diffusing.md>) into their body.
 
 While sleeping, the fae's body sorts through its memories as well as the accompanied spark's, resulting in dreaming. The process of remembering a dream feels very similar to diffusing, as the fae's subconscious spark automatically tries to create a narrative of any dreams they may have remembered.

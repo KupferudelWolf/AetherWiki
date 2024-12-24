@@ -1,3 +1,3 @@
-**Luxtia** is the large region around the [Cirrolite Core](<./Cirrolite Core.md>) where all [Fae](<../Fae.md>) currently live. It is roughly circular with a 400-mile diameter. Luxtia is raised from the surrounding the [Shifting Lands](<./Shifting Lands.md>), which sunk about 10 miles down during [The Shattering](<../Events/The Shattering.md>). [Skygrazer](<./Skygrazer.md>) stands in the middle.
+**Luxtia** is the large region around the [Cirrolite Core](<./Cirrolite Core.md>) where all [fae](<../Æther/Fae.md>) currently live. It is roughly circular with a 400-mile diameter. Luxtia is raised from the surrounding the [Shifting Lands](<./Shifting Lands.md>), which sunk about 10 miles down during [The Shattering](<../Events/The Shattering.md>). [Skygrazer](<./Skygrazer.md>) stands in the middle.
 
 As the Cirrolite Core is slowly weakening over time, the border of Luxtia is shrinking, its borders collapsing into the Shifting Lands.

@@ -9,7 +9,7 @@ tags:
 > ###### Body
 > |  |  |
 > | ---: | ---- |
-> | Species | [Wolf](<../Species/Wolf.md>) |
+> | Species | [wolf](<../Æther/Body.md#Wolf>) |
 > | Height | 70 cm |
 > | Weight | 38 kg |
 > ###### Spark
@@ -17,10 +17,10 @@ tags:
 > | ---: | ---- |
 > | Pronouns | she/her |
 
-**Myla of the Heat** is one of the four [ætherwolves](<../Species/Wolf.md#Ætherwolf>).
+**Myla of the Heat** is one of the four [ætherwolves](<../Æther/Ætherwolf.md>).
 
 ## Body
-Myla's [body](<../Æther/Body.md>) is a white [wolf](<../Species/Wolf.md>) with round cyan markings on her pelt. Her eyes are also cyan, as are the illusionary "wings" on her back.
+Myla is a white [wolf](<../Æther/Body.md#Wolf>) with round cyan markings on her pelt. Her eyes are also cyan, as are the illusionary "wings" on her back.
 
 ## Spark
 x
