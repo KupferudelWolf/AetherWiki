@@ -17,7 +17,7 @@ tags:
 > | ---: | ---- |
 > | Pronouns | she/her |
 
-**Myla of the Heat** is one of the four [ætherwolves](<../Æther/Ætherwolf.md>).
+**Myla of the Heat** is one of the four [ætherwolves](<../Æther/Ætherwolf.md>). [{{WEST}}](<../Locations/{{WEST}}.md>) is her domain.
 
 ## Body
 Myla is a white [wolf](<../Æther/Body.md#Wolf>) with round cyan markings on her pelt. Her eyes are also cyan, as are the illusionary "wings" on her back.

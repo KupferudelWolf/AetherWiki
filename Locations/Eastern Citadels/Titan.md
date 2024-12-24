@@ -2,10 +2,12 @@
 tags:
   - citadel
 ---
-**Titan** is the southernmost [citadel](<../Citadel.md>) of [Saturn](<../Saturn.md>) located in [Serra](<../Serra.md>). It was a guild focusing on biological science before it was rendered it inoperable.
+**Titan** is the southernmost [citadel](<../Citadel.md>) of [Saturn](<../Saturn.md>), located in [Serra](<../Serra.md>).
+
+Before it was rendered it inoperable, Titan included a guild that specialized in biological science.
 
 ## Geography
-Titan is in a forested part of Serra. It is the furthest from [Skygrazer](<../Skygrazer.md>) and thus the center of [Luxtia](<../Luxtia.md>), meaning that it is in immediate risk of collapsing from the slowly encroaching [Shifting Lands](<../Shifting Lands.md>). It is expected to start collapsing in about 100 years.
+Titan is in a heavily forested part of eastern Serra. It is the furthest from [Skygrazer](<../Skygrazer.md>) and thus the center of [Luxtia](<../Luxtia.md>), meaning that it is in immediate risk of collapsing from the slowly encroaching [Shifting Lands](<../Shifting Lands.md>). It is expected to start collapsing in about 100 years.
 
 The area around Titan is densely forested but relatively flat. The paths and pastures outside the citadel and town are abandoned and overgrown.
 

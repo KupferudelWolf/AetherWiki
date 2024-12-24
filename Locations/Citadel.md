@@ -6,10 +6,10 @@ Every citadel is responsible for progress in science, engineering, and culture, 
 
 ## Saturn
 Saturn's citadels are smaller but more numerous than those of Jupiter. Those citadels and their specialties are listed below, from north to south:
-- In (NORTH):
+- In [{{NORTH}}](<./{{NORTH}}.md>):
 	- [Dione](<./Eastern Citadels/Dione.md>): philosophy and psychology
 	- [Enceladus](<./Eastern Citadels/Enceladus.md>): arts and culture
-- In (EAST):
+- In [{{EAST}}](<./{{EAST}}.md>):
 	- [Mimas](<./Eastern Citadels/Mimas.md>): math, logic, and computing
 	- [Iapetus](<./Eastern Citadels/Iapetus.md>): statistics and probability
 	- [Tethys](<./Eastern Citadels/Tethys.md>): engineering and industry
@@ -21,9 +21,9 @@ Titan is no longer in service. As a result, Rhea focuses on biological natural s
 
 ## Jupiter
 Jupiter's citadels are considerably larger than those of Saturn, though there are ultimately fewer. Those citadels and their specialties are listed below, from north to south:
-- In (NORTH):
+- In [{{NORTH}}](<./{{NORTH}}.md>):
 	- [Callisto](<./Western Citadels/Callisto.md>): service industries
-- In (WEST):
+- In [{{WEST}}](<./{{WEST}}.md>):
 	- [Ganymede](<./Western Citadels/Ganymede.md>): manufacturing industries
 	- [Europa](<./Western Citadels/Europa.md>): agricultural industries
 	- [Io](<./Western Citadels/Io.md>): extraction industries

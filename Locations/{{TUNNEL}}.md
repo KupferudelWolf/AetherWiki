@@ -1,0 +1,1 @@
+The **?????** is a massive tunnel south of [Ganymede](<./Western Citadels/Ganymede.md>) that leads to the [Shifting Lands](<./Shifting Lands.md>). [Jupiter](<./Jupiter.md>) and [Saturn](<./Saturn.md>) both use this tunnel to access the Shifting Lands for resources. It includes a massive elevator capable of moving the heavy machinery necessary to excavate these resources.

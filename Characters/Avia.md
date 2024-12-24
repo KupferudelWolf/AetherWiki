@@ -21,7 +21,9 @@ tags:
 > | ---: | ---- |
 > | Spouse | [Naomi](<./Naomi.md>) |
 
-**Avia of the Sky** is one of the four [ætherwolves](<../Æther/Ætherwolf.md>). She is happily married to [Naomi](<./Naomi.md>).
+**Avia of the Sky** is one of the four [ætherwolves](<../Æther/Ætherwolf.md>). [{{NORTH}}](<../Locations/{{NORTH}}.md>) is her domain.
+
+She is happily married to [Naomi](<./Naomi.md>).
 
 ## Body
 Avia is a small [wolf](<../Æther/Body.md#Wolf>) with long, slightly bowed, lightly-colored horns that run parallel to her body up to her rump. She has four paws. Her fur is black, grey, and white, and her eyes are a brilliant orange, with a matching marking beneath her left eye.

@@ -17,7 +17,7 @@ tags:
 > | ---: | ---- |
 > | Pronouns | she/her |
 
-**Jaki of the Ground** is one of the four [ætherwolves](<../Æther/Ætherwolf.md>).
+**Jaki of the Ground** is one of the four [ætherwolves](<../Æther/Ætherwolf.md>). [Serra](<../Locations/Serra.md>) is her domain.
 
 ## Body
 Jackie is a large, imposing [wolf](<../Æther/Body.md#Wolf>) with incredibly black fur and piercing yellow eyes. She has black feathers on her head and neck, as well as white and silver flowers growing from her neck. She has four paws.

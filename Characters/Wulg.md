@@ -17,7 +17,7 @@ tags:
 > | ---: | ---- |
 > | Pronouns | she/her |
 
-**Wulg of the Cold** is one of the four [ætherwolves](<../Æther/Ætherwolf.md>).
+**Wulg of the Cold** is one of the four [ætherwolves](<../Æther/Ætherwolf.md>). [{{EAST}}](<../Locations/{{EAST}}.md>) is her domain.
 
 ## Body
 x
