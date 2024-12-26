@@ -19,6 +19,7 @@ tags:
 > ###### Relations
 > |  |  |
 > | ---: | ---- |
+> | Residency | [Dione](<../Locations/Eastern Citadels/Dione.md>) |
 > | Spouse | [Naomi](<./Naomi.md>) |
 
 **Avia of the Sky** is one of the four [ætherwolves](<../Æther/Ætherwolf.md>). [{{NORTH}}](<../Locations/{{NORTH}}.md>) is her domain.

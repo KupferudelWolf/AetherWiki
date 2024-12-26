@@ -16,6 +16,10 @@ tags:
 > |  |  |
 > | ---: | ---- |
 > | Pronouns | she/her |
+> ###### Relations
+> |  |  |
+> | ---: | ---- |
+> | Residency | somewhere in [Serra](<../Locations/Serra.md>) |
 
 **Jaki of the Ground** is one of the four [ætherwolves](<../Æther/Ætherwolf.md>). [Serra](<../Locations/Serra.md>) is her domain.
 
