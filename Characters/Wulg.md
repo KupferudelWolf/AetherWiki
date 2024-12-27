@@ -22,7 +22,7 @@ tags:
 ## Body
 x
 
-Wulg has ram-like crystal horns made of scheelite. They are thus soft and fragile despite their intimidating appearance, though Wulg can easily repair them once damaged.
+Wulg has ram-like crystal horns made of fluorescent scheelite. They are thus soft and fragile despite their intimidating appearance, though Wulg can easily repair them once damaged.
 
 ## Spark
 x
