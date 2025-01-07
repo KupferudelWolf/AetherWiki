@@ -8,7 +8,7 @@ Most fae living in the urban regions of the [citadels](<../Locations/Citadel.md>
 
 PCs are very modular and generally built for many purposes. They often use a trackball (rather than a mouse) but otherwise include the machine itself, a cathode-ray tube monitor for display, and a keyboard. Other peripherals include alternative control devices, scanners, printers, and speakers.
 
-PCs are very modular but seldom purpose-built. Fae often use PCs to communicate with each other through the [Intranet](<./Intranet.md>), to record personal data, to watch or listen to media, and to play computer games.
+PCs are very modular but seldom purpose-built. Fae often use PCs to communicate with each other through the [Yarpanet](<./Yarpanet.md>), to record personal data, to watch or listen to media, and to play computer games.
 
 ### Devices
 Portable music players are popular in all of Luxtia. Music is stored externally on a cassette or magnetic card, or internally in a disk drive using tracks transferred from a PC. Both devices are small and meant to be worn on the mid-upper part of a foreleg. Headphones clip onto the ear (on the lateral side, near the bottom).
