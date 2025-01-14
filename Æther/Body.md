@@ -32,6 +32,9 @@ Hyenas are not native to Luxtia. Hyena fae were likely visiting Luxtia during [T
 ### Lynx
 x
 
+### Raven
+x
+
 ### Wolf
 A **wolf** is a large canine animal. It has a broad snout, round ears, a thick neck, and two layers of fur. It has a strong bite and good endurance.
 
