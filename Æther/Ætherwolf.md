@@ -5,3 +5,6 @@ The four ætherwolves are:
 - [Jaki](<../Characters/Jaki.md>) of [Serra](<../Locations/Serra.md>)
 - [Myla](<../Characters/Myla.md>) of [{{WEST}}](<../Locations/{{WEST}}.md>)
 - [Wulg](<../Characters/Wulg.md>) of [{{EAST}}](<../Locations/{{EAST}}.md>)
+
+## Origins
+The four ætherwolves formed before [the Shattering](<../Events/The Shattering.md>).

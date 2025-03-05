@@ -22,7 +22,7 @@ tags:
 > | Residency | [Dione](<../Locations/Eastern Citadels/Dione.md>) |
 > | Spouse | [Naomi](<./Naomi.md>) |
 
-**Avia of the Sky** is one of the four [ætherwolves](<../Æther/Ætherwolf.md>). [{{NORTH}}](<../Locations/{{NORTH}}.md>) is her domain.
+**Avia of the Sky** is one of the four [ætherwolves](<../Æther/Ætherwolf.md>). Legends say she captures lightning with her horns. [{{NORTH}}](<../Locations/{{NORTH}}.md>) is her domain.
 
 She is happily married to [Naomi](<./Naomi.md>).
 
@@ -35,3 +35,6 @@ Avia is passionate, personable, and optimistic. She especially enjoys chatting w
 However, she can be quite egotistical and envious. She loves to talk about her own experiences. Though she is intelligent, she occasionally overestimates what she knows about things, and though she's not afraid to be wrong, she will try to justify why she was wrong about something.
 
 She is a fairly poor planner, preferring to "go with the flow".
+
+## Occupation
+Avia spends her time at the observatory near [Dione](<../Locations/Eastern Citadels/Dione.md>) studying and repairing rare [cirrolite](<../Technology/Cirrolite.md>) devices as directed by the citadels of [Saturn](<../Locations/Saturn.md>).

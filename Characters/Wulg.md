@@ -17,7 +17,7 @@ tags:
 > | ---: | ---- |
 > | Pronouns | she/her |
 
-**Wulg of the Cold** is one of the four [ætherwolves](<../Æther/Ætherwolf.md>). [{{EAST}}](<../Locations/{{EAST}}.md>) is her domain.
+**Wulg of the Cold** is one of the four [ætherwolves](<../Æther/Ætherwolf.md>). Legends say she swims in frigid waters and can crush rocks with her teeth. [{{EAST}}](<../Locations/{{EAST}}.md>) is her domain.
 
 ## Body
 x

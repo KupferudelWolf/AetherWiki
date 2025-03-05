@@ -21,7 +21,7 @@ tags:
 > | ---: | ---- |
 > | Residency | somewhere in [Serra](<../Locations/Serra.md>) |
 
-**Jaki of the Ground** is one of the four [ætherwolves](<../Æther/Ætherwolf.md>). [Serra](<../Locations/Serra.md>) is her domain.
+**Jaki of the Ground** is one of the four [ætherwolves](<../Æther/Ætherwolf.md>). Legends say her wingbeats can uproot trees. [Serra](<../Locations/Serra.md>) is her domain.
 
 ## Body
 Jackie is a large, imposing [wolf](<../Æther/Body.md#Wolf>) with incredibly black fur and piercing yellow eyes. She has black feathers on her head and neck, as well as white and silver flowers growing from her neck. She has four paws.
@@ -32,3 +32,6 @@ Jaki wears silver earrings, each with three circles representing three moons in 
 
 ## Spark
 Jaki is quiet, stern, wise, and intelligent. She is highly dedicated to her beliefs and goals. She has a soft spot for hatchlings. She loves to live nomadically, hunting and gathering instead of settling down.
+
+## Occupation
+Jaki spends her time roaming Sierra, searching for and fixing æthereal anomalies.
