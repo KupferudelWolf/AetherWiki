@@ -12,11 +12,6 @@ Cheetah bodies are careful and fairly territorial. Unlike many other predators i
 
 Cheetahs are native to a former land that was far warmer than [Luxtia](<../Locations/Luxtia.md>). Local cheetahs have adapted to the cold, growing longer pelts.
 
-### Enfield
-An **enfield** is a small or medium canine animal with avian features. Its front legs resemble those of a bird-of-prey, with talons instead of paws. It may otherwise resemble a [fox](<#Fox>) or [wolf](<#Wolf>), but with feathers, often branching from its front legs like wings. Enfields are very flexible.
-
-Enfield bodies are tenacious, solitary, and territorial. They either hide from others or attack to scare them off. If somebody manages to bond with an enfield, though, then it will stay loyal to them.
-
 ### Fox
 A **fox** is a small canine animal. It has a narrow and pointed snout, sharp ears, and a considerably bushy tail. Its pelt is often colorful yet may be all black or white. It is more flexible and adaptable than other canines and may even have retractable claws.
 
