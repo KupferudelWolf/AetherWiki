@@ -19,8 +19,8 @@ tags:
 
 **Myla of the Heat** is one of the four [ætherwolves](<../Æther/Ætherwolf.md>). Legends say she can only be seen in perfect reflections. [{{WEST}}](<../Locations/{{WEST}}.md>) is her domain.
 
-## Body
+## Appearance
 Myla is a white [wolf](<../Æther/Body.md#Wolf>) with round cyan markings on her pelt. Her eyes are also cyan, as are the illusionary "wings" on her back.
 
-## Spark
+## Personality
 x

@@ -18,14 +18,14 @@ tags:
 
 **Illuna** is an adult [fox](<../Æther/Body.md#Fox>).
 
-## Body
+## Appearance
 Illuna is a very bright white [fae](<../Æther/Fae.md>) with blue markings. She has four paws. Her eyes are a bright cyan and have narrow pupils. She has prominent whiskers of average length, and her upper canines visibly protrude from her mouth.
 
 She tends to wear leather bags around her neck, body, and rump. Various trinkets dangle from her bags. She wears a thin, light, transparent cowl over her neck and chest.
 
 In moonlight, her fur appears to sparkle.
 
-## Spark
+## Personality
 Illuna is naive and dreamy. She has a passing interest in many things; she easily gets passionate about new or interesting topics. She is quite spiritual and very interested in the occult. However, she is headstrong about her own beliefs.
 
 She feels very lost and out-of-place.

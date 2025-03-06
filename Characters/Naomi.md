@@ -22,10 +22,10 @@ tags:
 
 **Naomi** is an adult [fox](<../Æther/Body.md#Fox>). She is happily married to [Avia](<./Avia.md>).
 
-## Body
+## Appearance
 Naomi is a small brown and tan fox with grey cheeks. Her tail's tan tip reaches and drags on the ground. She has especially prominent and long whiskers. Her eyes are a dark red and have narrow pupils.
 
-## Spark
+## Personality
 Naomi is a clever, shy, and intelligent [fae](<../Æther/Fae.md>). She is quiet; when she speaks, she is clear and concise. She hides nervousness and anxiety well around strangers. She is an adept liar, but not a habitual one; she usually only lies to protect herself and others, especially from persecution.
 
 Like her wife, she can be quite jealous of others. Yet, she dislikes having attention.
