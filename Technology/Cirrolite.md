@@ -1,6 +1,6 @@
 **Cirrolite** is a translucent light-blue crystalline material primarily found in the core of [Luxtia](<../Locations/Luxtia.md>). It is an extremely good conductor for [æthereal energy](<../Æther/Energy.md>) and thus [sequencing](<../Æther/Sequencing.md>).
 
-Cirrolite is available in two forms: **isometric** and **prismatic**.
+Cirrolite has two forms: **isometric** and **prismatic**.
 
 ## Physical Properties
 Cirrolite is a phosphate porphyrin(?) similar to hydroxyapatite, which is found in [bones](<../Æther/Æther.md#Conductance>). Both forms of cirrolite have a hardness of around 9 on the Mohs scale, but is rigid and brittle.
