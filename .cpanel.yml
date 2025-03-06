@@ -1,0 +1,12 @@
+##### CPANEL GIT DEPLOY
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/avoytcom/public_html/aether.avoyt.com/vault/
+    - /bin/cp -R README.md $DEPLOYPATH
+    - /bin/cp -R Æther $DEPLOYPATH
+    - /bin/cp -R Characters $DEPLOYPATH
+    - /bin/cp -R Events $DEPLOYPATH
+    - /bin/cp -R Locations $DEPLOYPATH
+    - /bin/cp -R Phenomena $DEPLOYPATH
+    - /bin/cp -R Technology $DEPLOYPATH
