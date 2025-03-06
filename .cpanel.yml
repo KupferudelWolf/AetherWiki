@@ -1,0 +1,6 @@
+##### CPANEL GIT DEPLOY
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/avoytcom/public_html/aether.avoyt.com/vault/
+    - /bin/cp -R * $DEPLOYPATH
