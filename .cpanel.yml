@@ -4,6 +4,7 @@ deployment:
   tasks:
     - export DEPLOYPATH=/home/avoytcom/public_html/aether.avoyt.com/vault/
     - /bin/cp -R README.md $DEPLOYPATH
+    - /bin/cp -R _media $DEPLOYPATH
     - /bin/cp -R Æther $DEPLOYPATH
     - /bin/cp -R Characters $DEPLOYPATH
     - /bin/cp -R Events $DEPLOYPATH
