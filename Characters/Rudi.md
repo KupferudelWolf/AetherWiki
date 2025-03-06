@@ -23,3 +23,5 @@ Rudi is a short-legged grey, red, and cream-white wolf with excessive fur and qu
 
 ## Personality
 x
+
+As a result of metamutagen poisoning, Rudi's spark is weaker. He is depressed, feeble, and undetermined, especially compared to his former self.
