@@ -9,7 +9,7 @@ tags:
 > ###### Body
 > |  |  |
 > | ---: | ---- |
-> | Species | [wolf](<../Æther/Body.md#Wolf>) |
+> | Species | [wolf](<../Æther/Species/Wolf.md>) |
 > | Height | 52 cm |
 > | Weight | 25 kg |
 > ###### Spark

@@ -8,7 +8,7 @@ tags:
 > ###### Body
 > |  |  |
 > | ---: | ---- |
-> | Species | [fox](<../Æther/Body.md#Fox>) |
+> | Species | [fox](<../Æther/Species/Fox.md>) |
 > | Height | ??? |
 > | Weight | ??? |
 > ###### Spark

@@ -3,10 +3,10 @@
 > 
 > *Page:* [The Shattering](<./The Shattering.md>).
 
-> [!timeline|t-r t-3] **Metamutagen Disaster** *y20*
+> [!timeline|t-r t-3] **Metamutagen Disaster** *y4*
 > [Titan](<../Locations/Eastern Citadels/Titan.md>) falls.
 > 
 > *Page:* [Titan#Disaster](<../Locations/Eastern Citadels/Titan.md#Disaster>).
 
-> [!timeline|t-r t-3] **Today** *y40*
+> [!timeline|t-r t-3] **Today** *y10*
 > x

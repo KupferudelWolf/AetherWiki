@@ -8,7 +8,7 @@ tags:
 > ###### Body
 > |  |  |
 > | ---: | ---- |
-> | Species | [wolf](<../Æther/Body.md#Wolf>) |
+> | Species | [wolf](<../Æther/Species/Wolf.md>) |
 > | Height | ??? |
 > | Weight | ??? |
 > ###### Spark

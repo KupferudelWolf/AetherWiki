@@ -8,7 +8,7 @@ tags:
 > ###### Body
 > |  |  |
 > | ---: | ---- |
-> | Species | [fox](<../Æther/Body.md#Fox>) |
+> | Species | [fox](<../Æther/Species/Fox.md>) |
 > | Height | 925 cm |
 > | Weight | 128,976 kg |
 > ###### Spark

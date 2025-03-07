@@ -5,9 +5,11 @@ All animals have a body, but only certain species have acquired sparks. A specie
 
 Fae can be found in [Luxtia](<../Locations/Luxtia.md>) with the following kinds of bodies:
 - [Cheetah](<./Body.md#Cheetah>)
-- [Enfield](<./Body.md#Enfield>)
 - [Fox](<./Body.md#Fox>)
 - [Hyena](<./Body.md#Hyena>)
+- [Lynx](<./Body.md#Lynx>)
+- [Raccoon](<./Body.md#Raccoon>)
+- [Raven](<./Body.md#Raven>)
 - [Wolf](<./Body.md#Wolf>)
 
 ## Spark
@@ -16,4 +18,4 @@ The spark provides the body with [sapience](<../Phenomena/Consciousness.md>) by 
 A fae acquires their spark through one of three ways:
 1. **Birth.** If both parents have a spark, the child will always have a spark.
 2. **Uplifting.** Another fae can artificially [resolve](<./Resolving.md>) a spark into a body. Though the technology required to create or isolate a spark is limited and expensive, and though it may be morally dubious, some scientists have nonetheless experimented with this.
-3. **Quantum Fluctuations.** A body with a skeleton of bone can spontaneously acquire a spark through fluctuations in the [æther](<./Æther.md>). This is incredibly rare.
+3. **Quantum Fluctuations.** A body with a sufficiently complex brain and with enough bone mass can spontaneously acquire a spark through fluctuations in the [æther](<./Æther.md>). This is incredibly rare.
