@@ -14,7 +14,7 @@ The area around Titan is densely forested but relatively flat. The paths and pas
 ## History
 
 ### Metamutagen
-Starting (30-ish years ago?), Titan began developing a liquid substance with high conductivity of [æthereal energy](<../../Æther/Energy.md>).
+Starting (30-ish years ago?), Titan began developing a liquid substance with high conductivity of [exergy](<../../Æther/Exergy.md>).
 
 #### Disaster
 In (30-ish years ago?), 

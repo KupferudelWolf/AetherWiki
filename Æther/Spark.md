@@ -3,7 +3,7 @@ The **spark** is a pseudoparticle that contains a [fae's](<./Fae.md>) "essence" 
 Every fae's consciousness is a result of the combination of a spark and a body. In a physical sense, the spark unlocks functions in the brain that allow for a higher state of [consciousness](<../Phenomena/Consciousness.md>). If the spark and body are [separated](<./Resolving.md>), this functionality is lost, and neither are conscious. Both are acting like an automata, with the body working on instinct, and the spark working on personality and identity. Neither are experiencing, but upon [reuniting](<./Diffusing.md>) (or upon uniting with a different body or spark), the fae receives [memories](<../Phenomena/Memory.md>) of experiencing everything as though they were in both places at once, their "ego" filling in the gaps. To a fae, this feels like a very similar experience to [dreaming](<../Phenomena/Sleeping & Dreaming.md>).
 
 ## Physical Properties
-The spark is a complex organism consisting of particle-like topological defects in the [æther](<./Æther.md>). It exists in superposition within its [aura](<./Aura.md>).
+The spark is a complex organism consisting of a quasiparticle of topological defects in the [æther](<./Æther.md>). It exists in superposition within its [aura](<./Aura.md>).
 
 A spark produces very faint, usually imperceivable light. This light is brighter while the spark is [focused](<./Focusing.md>). When [resolved](<./Resolving.md>), it can even be too bright to look at.
 

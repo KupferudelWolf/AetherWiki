@@ -1,3 +1,0 @@
-**Æthereal energy** refers to perturbations and imbalances in the [æther](<./Æther.md>). Regions of higher energy are further from equilibrium, with stronger charges in every point's axes.
-
-When energy is "created" in a region, such as through [sequencing](<./Sequencing.md>), energy of equal but opposing charge increases in its surroundings. In other words, energy isn't truly created, but rather "pushed" from one region to another. The only known exception is [The Shattering](<../Events/The Shattering.md>), in which a change in the equilibrium caused an effective change in energy.

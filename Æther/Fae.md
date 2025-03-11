@@ -4,13 +4,16 @@ A **fae** is any [body](<./Body.md>) with a [spark](<./Spark.md>). This results 
 All animals have a body, but only certain species have acquired sparks. A species must have a bone skeleton to be capable of holding a spark. An animal must acquire a spark (which can happen spontaneously, though that is very rare) and be able to reproduce with another biologically compatible fae (with a spark; animals without sparks cannot give birth to fae). Only then can a fae be that species.
 
 Fae can be found in [Luxtia](<../Locations/Luxtia.md>) with the following kinds of bodies:
-- [Cheetah](<./Body.md#Cheetah>)
-- [Fox](<./Body.md#Fox>)
-- [Hyena](<./Body.md#Hyena>)
-- [Lynx](<./Body.md#Lynx>)
-- [Raccoon](<./Body.md#Raccoon>)
-- [Raven](<./Body.md#Raven>)
-- [Wolf](<./Body.md#Wolf>)
+- [Bear](<./Species/Bear.md>)
+- [Cheetah](<./Species/Cheetah.md>)
+- [Coyote](<./Species/Coyote.md>)
+- [Fox](<./Species/Fox.md>)
+- [Hyena](<./Species/Hyena.md>)
+- [Lynx](<./Species/Lynx.md>)
+- [Raccoon](<./Species/Raccoon.md>)
+- [Raven](<./Species/Raven.md>)
+- [Tiger](<./Species/Tiger.md>)
+- [Wolf](<./Species/Wolf.md>)
 
 ## Spark
 The spark provides the body with [sapience](<../Phenomena/Consciousness.md>) by increasing their brain's function. Fae attribute a lot of personality and emotions to the spark; a fae will often call their personality their "spark". In reality, their personality and emotions come mostly come their brain's enhanced functions. The spark can, however, retain [memories](<../Phenomena/Memory.md>).

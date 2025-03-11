@@ -2,4 +2,4 @@
 
 [Fae](<../Æther/Fae.md>) are in disagreement over whether New Existence currently exists beyond the [Shifting Lands](<./Shifting Lands.md>): whether the ripples from The Shattering have already subsided anywhere in the universe. At least, New Existence is the end result of The Shattering, ultimately including [Luxtia](<./Luxtia.md>) after the [Cirrolite Core](<./Cirrolite Core.md>) is no longer strong enough to protect it.
 
-Scientists generally agree, however, that many physical processes, including biology, will be substantially different in New Existence. At a lower level of [æthereal energy](<../Æther/Energy.md>), less energy will be workable. Important biological processes will likely require more energy than it currently can create.
+Scientists generally agree, however, that many physical processes, including biology, will be substantially different in New Existence. At a lower level of [exergy](<../Æther/Exergy.md>), less exergy will be workable. Important biological processes will likely require more exergy than it currently can create.
