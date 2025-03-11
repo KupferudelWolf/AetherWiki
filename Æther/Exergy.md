@@ -2,4 +2,4 @@
 
 Exergy is identical to the eponymous thermodynamic concept; it describes the "available energy" within a system.
 
-When exergy is "created" in a region, such as through [sequencing](<./Sequencing.md>), equal but opposing exergy increases in its surroundings. In other words, exergy isn't truly created, but rather moved from one region to another.
+When exergy is created, such as through [sequencing](<./Sequencing.md>), an equal or greater amount of exergy must be destroyed. Thus, exergy can only decrease with time as entropy increases.
