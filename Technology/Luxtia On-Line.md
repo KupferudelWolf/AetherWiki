@@ -1,0 +1,1 @@
+**Luxtia On-Line**, or **LOL**, is a free instant messaging [computer](<./Technology.md#Computer>) app that sends messages through [Yarpanet](<./Yarpanet.md>).

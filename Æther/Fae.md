@@ -15,6 +15,9 @@ Fae can be found in [Luxtia](<../Locations/Luxtia.md>) with the following kinds 
 - [Tiger](<./Species/Tiger.md>)
 - [Wolf](<./Species/Wolf.md>)
 
+### Faeling
+A **faeling** is a young fae. Though they are definitively fae, faelings are called faelings until they age to adulthood. Adolescent faelings may occasionally be called "older faeling" to distinguish them from younger faelings.
+
 ## Spark
 The spark provides the body with [sapience](<../Phenomena/Consciousness.md>) by increasing their brain's function. Fae attribute a lot of personality and emotions to the spark; a fae will often call their personality their "spark". In reality, their personality and emotions come mostly come their brain's enhanced functions. The spark can, however, retain [memories](<../Phenomena/Memory.md>).
 
