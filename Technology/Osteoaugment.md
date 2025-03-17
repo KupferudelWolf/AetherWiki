@@ -18,3 +18,8 @@ Augments can also directly aid in [sequencing](<../Æther/Sequencing.md>). The s
 
 ## Alternative Form Factors
 Most augments are manufactured to be used with interfaces. However, specialized augments can attach to horns or teeth. Though the aural connection is weaker, it may still be sufficient for certain types of devices.
+
+## Slang
+"Augment" and "interface" is sometimes used among faeling as a vulgar or immature euphemism for sexual acts. This is especially common on [LOL](<./Luxtia On-Line.md>) between fae in petty arguments. For example, a fae may try to anger another by claiming they will "augment" (or have previously "augmented") the other fae's mother despite having no intentions of actually doing so.
+
+Adult fae using this slang, especially to refer to actual intercourse, is seen by faelings and adults alike as nerdy, ostentatious, or simply rude.
