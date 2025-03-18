@@ -27,7 +27,7 @@ tags:
 She is happily married to [Naomi](<./Naomi.md>).
 
 ## Appearance
-Avia is a small [wolf](<../Æther/Body.md#Wolf>) with long, slightly bowed, lightly-colored horns that run parallel to her body up to her rump. She has four paws. Her fur is black, grey, and white, and her eyes are a brilliant orange, with a matching marking beneath her left eye.
+Avia is a small [wolf](<../Æther/Wolf.md>) with long, slightly bowed, lightly-colored horns that run parallel to her body up to her rump. She has four paws. Her fur is black, grey, and white, and her eyes are a brilliant orange, with a matching marking beneath her left eye.
 
 ## Personality
 Avia is passionate, personable, and optimistic. She especially enjoys chatting with other [fae](<../Æther/Fae.md>) at length about topics she is knowledgeable about. She also enjoys debating for the sake of debate, especially over practically pointless issues. She loves to explore and go out to town with others.

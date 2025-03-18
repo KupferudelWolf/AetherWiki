@@ -16,7 +16,7 @@ tags:
 > | ---: | ---- |
 > | Pronouns | she/her |
 
-**Lysco** is a [wolf](<../Æther/Body.md#Wolf>) who tours the region performing.
+**Lysco** is a [wolf](<../Æther/Species/Wolf.md>) who tours the region performing.
 
 ## Appearance
 Lysco is a reddish and tan wolf. Her fur turns white in contact with water. Her eyes are amber.

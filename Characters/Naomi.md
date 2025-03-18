@@ -20,7 +20,7 @@ tags:
 > | ---: | ---- |
 > | Spouse | [Avia](<./Avia.md>) |
 
-**Naomi** is an adult [fox](<../Æther/Body.md#Fox>). She is happily married to [Avia](<./Avia.md>).
+**Naomi** is an adult [fox](<../Æther/Species/Fox.md>). She is happily married to [Avia](<./Avia.md>).
 
 ## Appearance
 Naomi is a small brown and tan fox with grey cheeks. Her tail's tan tip reaches and drags on the ground. She has especially prominent and long whiskers. Her eyes are a dark red and have narrow pupils.

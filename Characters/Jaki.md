@@ -24,7 +24,7 @@ tags:
 **Jaki of the Ground** is one of the four [ætherwolves](<../Æther/Ætherwolf.md>). Legends say her wingbeats can uproot trees. [Serra](<../Locations/Serra.md>) is her domain.
 
 ## Appearance
-Jackie is a large, imposing [wolf](<../Æther/Body.md#Wolf>) with incredibly black fur and piercing yellow eyes. She has black feathers on her head and neck, as well as white and silver flowers growing from her neck. She has four paws.
+Jackie is a large, imposing [wolf](<../Æther/Species/Wolf.md>) with incredibly black fur and piercing yellow eyes. She has black feathers on her head and neck, as well as white and silver flowers growing from her neck. She has four paws.
 
 She has enormous wings capable of lifting her in the air despite her large form. Unlike most critters, these wings are detached from her front legs; rather, they are a third set of appendages, which are attached to her back. Her flight is clumsy due to her size, especially during takeoff.
 
