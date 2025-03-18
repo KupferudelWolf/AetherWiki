@@ -2,6 +2,8 @@
 
 As the Cirrolite Core is slowly weakening over time, the border of Luxtia is shrinking, its borders collapsing into the Shifting Lands.
 
+Without a sun, Luxtia receives its light from the glow of the furthest layer of the [Shifting Lands](<./Shifting Lands.md>). It gives about as much light as the dawn, and it keeps Luxtia only just warm enough not to freeze.
+
 ## Geography
 The geography of Luxtia is fairly varied, though usually cold.
 
@@ -38,10 +40,10 @@ The following animals are native to Luxtia:
 	- tern
 - carnivorans
 	- bears: black bear, polar bear
-	- [fox](<../Æther/Body.md#Fox>): arctic fox, red fox
-	- [lynx](<../Æther/Body.md#Lynx>)
-	- seal: harbor seal
-	- [wolf](<../Æther/Body.md#Wolf>): grey wolf
+	- [fox](<../Æther/Species/Fox.md>): arctic fox, red fox
+	- [lynx](<../Æther/Species/Lynx.md>)
+	- seals: harbor seal
+	- [wolves](<../Æther/Species/Wolf.md>): grey wolf
 	- wolverine
 - lagomorphs
 	- snowshoe hare

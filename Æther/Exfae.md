@@ -1,4 +1,4 @@
-An **exfae** is a [fae](<./Fae.md>) allegedly sighted from within the [Shifting Lands](<../Locations/Shifting Lands.md>). Their existence is unconfirmed and often considered a hoax.
+An **exfae** is a [fae](<./Fae.md>) allegedly sighted from beyond the first stage of the [Shifting Lands](<../Locations/Shifting Lands.md>). Their existence is unconfirmed and often considered a hoax.
 
 Exfae are always spotted by [excavators](<../Technology/Excavator.md>): workers who must spend far more time in the Shifting Lands than any other fae. With one exception, only one excavator will witness an exfae per sighting, usually the excavator keeping watch for changes in [weather](<../Locations/Shifting Lands.md#Weather>) while the rest of the crew works nearby. In all cases, the rest of crew reportedly looks too late, brushes off the claim, or cannot spot what the witness is pointing out.
 
@@ -100,7 +100,7 @@ Currently, scientists can only recreate momentary flashes of light or clusters o
 ### Traveling Fae
 The most accepted theory in favor of the existence of exfae is that they are visitors or travelers from other places in the world.
 
-[Luxtia](<../Locations/Luxtia.md>) is currently avoiding [New Existence](<../Locations/New Existence.md>) with the natural capacitance of its [Cirrolite Core](<../Locations/Cirrolite Core.md>). Prior to [The Shattering](<../Events/The Shattering.md>), other similar natural [cirrolite](<../Technology/Cirrolite.md>) structures existed. It is currently unknown whether any of these other locations have survived The Shattering like Luxtia, as communication through the Shifting Lands is currently impossible.
+[Luxtia](<../Locations/Luxtia.md>) is currently avoiding [New Existence](<./New Existence.md>) with the natural capacitance of its [Cirrolite Core](<../Locations/Cirrolite Core.md>). Prior to [The Shattering](<../Events/The Shattering.md>), other similar natural [cirrolite](<../Technology/Cirrolite.md>) structures existed. It is currently unknown whether any of these other locations have survived The Shattering like Luxtia, as communication through the Shifting Lands is currently impossible.
 
 In the case other regions did survive, it may then be possible that fae in those regions may have found a way to traverse the Shifting Lands and are attempting to find other survivors. These exfae may have become mutated as a result of their journey through Shifting Lands, explaining their unusual shapes.
 
@@ -109,7 +109,7 @@ This theory has two major flaws. First, no communication has been established wi
 Additionally, in most credible cases, exfae are described as walking away from the witness without attempting contact. This is inherently counterintuitive to the claim that these are travelers searching for other regions.
 
 ### Survivors
-A similar theory, though less popular, is that exfae are fae who somehow survived The Shattering. The apparent mutations in exfae would therefore be a result of the extreme changes in exergy or even adaptations to [New Existence](<../Locations/New Existence.md>). The latter case could explain why exfae avoid contacting excavators: just as fae may be unable to survive in New Existence, exfae may be unable to survive in the "old existence" within the Cirrolite Core.
+A similar theory, though less popular, is that exfae are fae who somehow survived The Shattering. The apparent mutations in exfae would therefore be a result of the extreme changes in exergy or even adaptations to [New Existence](<./New Existence.md>). The latter case could explain why exfae avoid contacting excavators: just as fae may be unable to survive in New Existence, exfae may be unable to survive in the "old existence" within the Cirrolite Core.
 
 The main issue with this theory is that scientists have yet to create, let alone investigate, a scenario in which any fae could survive The Shattering. The extreme changes in exergy alone could scorch or lacerate a fae in an instance. Even if these fae were as close to Luxtia as they've been witnessed, the initial fluctuations would certainly have killed them.
 

@@ -1,0 +1,5 @@
+**New Existence** is the hypothetical state of incomprehensible physics that result from [The Shattering](<../Events/The Shattering.md>). It is a description of what the universe will be after the ripples of [The Shattering](<../Events/The Shattering.md>) have subsided. The physics are assumed to be vastly different and unsurvivable for all known life.
+
+[Fae](<./Fae.md>) are in disagreement over whether New Existence currently exists beyond the [Shifting Lands](<./Shifting Lands.md>): whether the ripples from The Shattering have already subsided anywhere in the universe. At least, New Existence is the end result of The Shattering, ultimately including [Luxtia](<./Luxtia.md>) after the [Cirrolite Core](<./Cirrolite Core.md>) is no longer strong enough to protect it.
+
+Scientists generally agree, however, that many physical processes, including biology, will be substantially different in New Existence. At a lower level of [exergy](<./Exergy.md>), less exergy will be workable. Important biological processes will likely require more exergy than it currently can create.
